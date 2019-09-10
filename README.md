@@ -7,7 +7,7 @@
 ### ICON
 ![K-002](https://user-images.githubusercontent.com/50106215/64624775-1b194f00-d426-11e9-9509-a72a48461a42.jpg)
 
-###upcoming updates
+### upcoming updates
 
 Typo correction: correctted -> correctted
 
