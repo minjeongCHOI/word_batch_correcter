@@ -9,4 +9,10 @@
 
 ###upcoming updates
 
-Typo correction: correctted -> correctted  highlights corrected words  Initializes wrong_word and corret_word using a RESET button
+Typo correction: correctted -> correctted
+
+
+highlights corrected words  
+
+
+Initializes wrong_word and corret_word using a RESET button
