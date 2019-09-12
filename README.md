@@ -9,7 +9,7 @@
 
 ### upcoming updates
 
-Typo correction: correctted -> correctted
+Typo correction: correctted -> corrected
 
 
 highlights corrected words  
