@@ -12,7 +12,7 @@
 Typo correction: correctted -> corrected
 
 
-highlights corrected words  
+highlighting corrected words  
 
 
-Initializes wrong_word and corret_word using a RESET button
+Initializing wrong_word and corret_word using a RESET button
